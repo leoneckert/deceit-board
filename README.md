@@ -11,8 +11,7 @@ The deceit board (in its first iteration) uses a Teensy board running Arduino co
 
 ## The program
 
-[as of 1/18/2016]
-I tried different options for the program running on the teensy and of course it is still not finalised. The most effective one so far has been to make the board send keystrokes to the computer every 10 milli seconds. Those keystrokes are either one the user actually typed (retrieved from an array in which they are stored) or a spoof keystroke (I used caps lock on and off in quick succession). 
+[as of 1/18/2016]<br>I tried different options for the program running on the teensy and of course it is still not finalised. The most effective one so far has been to make the board send keystrokes to the computer every 10 milli seconds. Those keystrokes are either one the user actually typed (retrieved from an array in which they are stored) or a spoof keystroke (I used caps lock on and off in quick succession). 
 This results in an even typing rhythm with a 10 milli seconds break between any two keystrokes (subject to CPU clock precision) that reach the computer. This pattern is the same, no matter who is typing and therefore useless for collectors. 
 
 ## Testing
