@@ -29,8 +29,15 @@ alt="testing" width="700" height="398" border="10" /></a>
 * [Behaviosec's demo](http://www.behaviosec.com/demos/) is a good place to test out things (like spoofing and defeating their algorithm).
 
 
-
 ## FAQ
+
+Will the deceit board save our privacy once and for all?
+
+>Absolutely not. As technology progresses, there is never one definite protection from surveillance that can not be broken soon. Above that, obviously, behavioural keyboard typing surveillance is just a tiny piece of the bigger picture.
+
+Did someone do something similar (to the deceit board) before?
+
+>Yes, there is a [Chrome plugin](https://chrome.google.com/webstore/detail/keyboard-privacy/aoeboeflhhnobfjkafamelopfeojdohk). The reason I decided to make a physical device is that inside our computer there is little a data collector could not somehow get hold of. The idea was to create a protection device that anonymises data before it reaches your computer altogether.
 
 ## Thanks
 
