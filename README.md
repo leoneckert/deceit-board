@@ -25,6 +25,11 @@ alt="testing" width="700" height="398" border="10" /></a>
 
 ## To Do
 
+* Use deceit board to imitate someone's keystroke pattern.
+* [Behaviosec's demo](http://www.behaviosec.com/demos/) is a good place to test out things (like spoofing and defeating their algorithm).
+
+
+
 ## FAQ
 
 ## Thanks
