@@ -4,7 +4,7 @@ Deceit Board is a physical device intercepting the signal between keyboard and c
 
 ## How it works
 
-The deceit board (in its first iteration) uses a Teensy board running Arduino code and a ps/2 keyboard input. It receives and processes signals from an external keyboard before it passes them on to the computer. 
+The deceit board (in its first iteration) uses a [Teensy](https://www.pjrc.com/store/teensy32.html) board running Arduino code and a [PS/2 keyboard input](https://www.adafruit.com/products/1136). It receives and processes signals from an external keyboard before it passes them on to the computer. 
 
 
 ![Deceit Board](https://github.com/leoneckert/deceit-board/blob/master/deceit_board.jpg)
