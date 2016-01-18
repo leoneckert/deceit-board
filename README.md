@@ -18,7 +18,7 @@ This results in an even typing rhythm with a 10 milli seconds break between any 
 
 ![Double Keyboard](https://github.com/leoneckert/deceit-board/blob/master/double_keyboard.jpg)
 
-I used my own visualisation tools and a keyboard connected to two computers at the same time (shown in image above). One connection is intercepted by the deceit board, the other one is not filtered. The video below (click screenshot) shows the outcome of this experiment.
+I used my own visualisation tools (add link soon) and a keyboard connected to two computers at the same time (shown in image above). One connection is intercepted by the deceit board, the other one is not filtered. The video below (click screenshot) shows the outcome of this experiment.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=zoQVb48ETjI" target="_blank"><img src="https://github.com/leoneckert/deceit-board/blob/master/testing.png" 
 alt="testing" width="700" height="398" border="10" /></a>
