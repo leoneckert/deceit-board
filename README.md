@@ -21,3 +21,7 @@ This results in a even typing rhythm with a 10 milli seconds break between any t
 ## FAQ
 
 ## Thanks
+
+I received amazing help from [Adam Harvey]().
+
+Thanks also to the Author of this instructables.
