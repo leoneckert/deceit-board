@@ -22,6 +22,6 @@ This results in a even typing rhythm with a 10 milli seconds break between any t
 
 ## Thanks
 
-I received amazing help from [Adam Harvey]().
+I received amazing help from [Adam Harvey](https://ahprojects.com).
 
-Thanks also to the Author of this instructables.
+Thanks also to the Author of [this instructables](http://www.instructables.com/id/DOUBLE-KEYBOARD/).
